@@ -39,7 +39,8 @@ Software developer with experience in technical support, web development, and sy
 - **2021-2022** - Technologist Analysis and Development of Information Systems | **SENA**   
 
 ## 📫 Contact Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanvelezvanegas237@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-vélez-vanegas-b87821294) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanesvanegas)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juanvelezvanegas237@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-vélez-vanegas-b87821294) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/juanesvanegas)  
 
 📞 **Phone:** (+57) 304 3346127  
 
